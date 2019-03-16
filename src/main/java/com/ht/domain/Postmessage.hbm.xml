@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.ht.domain.Postmessage" table="postmessage"  >
+        <id name="id">
+            <column name="id" sql-type="varchar(36)" length="36"/>
+            <generator class="uuid.hex" />
+        </id>
+        <property name="userId">
+            <column name="userId" sql-type="varchar(36)" length="36" />
+        </property>
+        <property name="toUserId">
+            <column name="toUserId" sql-type="varchar(36)" length="36" />
+        </property>
+        <property name="postId">
+            <column name="postId" sql-type="varchar(36)" length="36" />
+        </property>
+        <property name="content">
+            <column name="content" sql-type="text" />
+        </property>
+        <property name="createTime">
+            <column name="createTime" sql-type="timestamp" />
+        </property>
+    </class>
+</hibernate-mapping>

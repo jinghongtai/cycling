@@ -1,0 +1,148 @@
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 16:08:38 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 16:08:38 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 16:08:41 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 16:08:42 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 16:08:42 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 16:08:43 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-03 16:25:45 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-03 16:25:45 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-03 16:25:50 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-03 16:25:55 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-03 16:25:56 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-03 16:25:57 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 18:56:14 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 18:56:14 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 18:56:17 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 18:56:19 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 18:56:19 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-03 18:56:20 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-10] 2019-03-03 19:03:14 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 19:33:24 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 19:33:24 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 19:33:26 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 19:33:28 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 19:33:28 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 19:33:29 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-9] 2019-03-03 19:37:22 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 20:21:09 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 20:21:09 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 20:21:11 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 20:21:12 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 20:21:13 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-03 20:21:13 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 15:25:57 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 15:25:57 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 15:26:01 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 15:26:04 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 15:26:04 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 15:26:05 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 15:38:28 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 15:38:28 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 15:38:31 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 15:38:33 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 15:38:33 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 15:38:34 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-2] 2019-03-07 15:45:45 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 16:39:03 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 16:39:03 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 16:39:05 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 16:39:07 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 16:39:07 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 16:39:08 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 16:43:29 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 16:43:29 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 16:43:32 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 16:43:33 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 16:43:34 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-07 16:43:34 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 20:17:23 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 20:17:23 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 20:17:25 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 20:17:27 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 20:17:27 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 20:17:28 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-4] 2019-03-07 20:17:56 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(6)-127.0.0.1] 2019-03-07 21:29:59 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(6)-127.0.0.1] 2019-03-07 21:29:59 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(6)-127.0.0.1] 2019-03-07 21:30:02 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(6)-127.0.0.1] 2019-03-07 21:30:06 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ INFO [RMI TCP Connection(6)-127.0.0.1] 2019-03-07 21:30:06 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(6)-127.0.0.1] 2019-03-07 21:30:07 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-8] 2019-03-07 21:33:09 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:06:13 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:06:13 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:06:16 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:06:17 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:06:18 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:06:19 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-6] 2019-03-07 22:11:11 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:29:32 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:29:32 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:29:34 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:29:36 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:29:36 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-07 22:29:37 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-7] 2019-03-07 22:29:48 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-08 20:27:11 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-08 20:27:11 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-08 20:27:13 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-08 20:27:15 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-08 20:27:15 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-08 20:27:16 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-4] 2019-03-08 20:27:29 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-08 21:57:04 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-08 21:57:04 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-08 21:57:06 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-08 21:57:07 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-08 21:57:07 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-08 21:57:08 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-4] 2019-03-08 21:57:21 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 21:45:11 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 21:45:11 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 21:45:15 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 21:45:17 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 21:45:18 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 21:45:20 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-6] 2019-03-09 21:45:37 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-09 22:55:10 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-09 22:55:10 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-09 22:55:13 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-09 22:55:14 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-09 22:55:14 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-09 22:55:16 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-8] 2019-03-09 22:55:31 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:07:47 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:07:47 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:07:49 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:07:50 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:07:50 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:07:51 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-7] 2019-03-09 23:08:12 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:21:04 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:21:04 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:21:06 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:21:07 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:21:07 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-09 23:21:08 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-6] 2019-03-09 23:21:20 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-10 19:05:44 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-10 19:05:44 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-10 19:05:48 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-10 19:05:49 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-10 19:05:49 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(3)-127.0.0.1] 2019-03-10 19:05:51 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-2] 2019-03-10 19:06:10 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-10 19:18:38 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-10 19:18:38 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-10 19:18:40 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-10 19:18:41 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-10 19:18:41 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(2)-127.0.0.1] 2019-03-10 19:18:42 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-8] 2019-03-10 19:18:50 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-10 20:46:02 (logVersion) (Version.java:46) HHH000412: Hibernate Core {5.3.2.Final}
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-10 20:46:02 (<clinit>) (Environment.java:213) HHH000206: hibernate.properties not found
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-10 20:46:04 (<clinit>) (JavaReflectionManager.java:49) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-10 20:46:05 (<init>) (Dialect.java:157) HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-10 20:46:06 (useContextualLobCreation) (LobCreatorBuilderImpl.java:124) HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+ INFO [RMI TCP Connection(5)-127.0.0.1] 2019-03-10 20:46:07 (<clinit>) (Version.java:30) HV000001: Hibernate Validator 5.3.2.Final
+ INFO [http-apr-8080-exec-3] 2019-03-10 20:46:21 (initiateService) (QueryTranslatorFactoryInitiator.java:47) HHH000397: Using ASTQueryTranslatorFactory

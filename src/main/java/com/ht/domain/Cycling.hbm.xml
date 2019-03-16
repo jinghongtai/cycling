@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.ht.domain.Cycling" table="cycling"  >
+        <id name="id">
+            <column name="id" sql-type="varchar(36)" length="36"/>
+            <generator class="uuid.hex" />
+        </id>
+        <property name="title">
+            <column name="title" sql-type="varchar(500)" length="500" />
+        </property>
+        <property name="activeType">
+            <column name="activeType" sql-type="varchar(500)" length="500" />
+        </property>
+        <property name="activeAddressBegin">
+            <column name="activeAddressBegin" sql-type="varchar(500)" length="500" />
+        </property>
+        <property name="activeAddressEnd">
+            <column name="activeAddressEnd" sql-type="varchar(500)" length="500" />
+        </property>
+        <property name="beginTime">
+            <column name="beginTime" sql-type="timestamp" />
+        </property>
+        <property name="endTime">
+            <column name="endTime" sql-type="timestamp" />
+        </property>
+        <property name="activeCount">
+            <column name="activeCount" sql-type="int(10)" />
+        </property>
+        <property name="flagPersonLimit">
+            <column name="flagPersonLimit" sql-type="varchar(3)" length="3" />
+        </property>
+        <property name="status">
+            <column name="status" sql-type="varchar(3)" length="3" />
+        </property>
+        <property name="loginTime">
+            <column name="loginTime" sql-type="timestamp" />
+        </property>
+        <property name="loginEndTime">
+            <column name="loginEndTime" sql-type="timestamp" />
+        </property>
+        <property name="content">
+            <column name="content" sql-type="text" />
+        </property>
+        <property name="converImg">
+            <column name="converImg" sql-type="varchar(500)" length="500"  />
+        </property>
+        <property name="createUserId">
+            <column name="createUserId" sql-type="varchar(36)" length="36"  />
+        </property>
+        <property name="allowRelease">
+            <column name="allowRelease" sql-type="varchar(36)" length="36"  />
+        </property>
+
+    </class>
+</hibernate-mapping>

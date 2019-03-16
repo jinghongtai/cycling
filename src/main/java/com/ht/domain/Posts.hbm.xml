@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.ht.domain.Posts" table="posts">
+        <id name="id">
+            <column name="id" sql-type="varchar(36)" length="36"/>
+            <generator class="uuid.hex" />
+        </id>
+        <property name="title">
+            <column name="title" sql-type="varchar(500)" length="500" />
+        </property>
+        <property name="content">
+            <column name="content" sql-type="text" />
+        </property>
+        <property name="createTime">
+            <column name="createTime" sql-type="timestamp" />
+        </property>
+        <property name="createUserId">
+            <column name="createUserId" sql-type="varchar(36)" length="36" />
+        </property>
+        <property name="topFlag">
+            <column name="topFlag" sql-type="varchar(10)" length="10" />
+        </property>
+        <property name="orderNo">
+            <column name="orderNo" sql-type="int(100)" />
+        </property>
+        <property name="lookCount">
+            <column name="lookCount" sql-type="int(100)" />
+        </property>
+        <property name="postClassId">
+            <column name="postClassId" sql-type="varchar(36)" length="36" />
+        </property>
+        <property name="flagPingLun">
+            <column name="flagPingLun" sql-type="varchar(36)" length="36" />
+        </property>
+        <property name="postCategoryId">
+            <column name="postCategoryId" sql-type="varchar(36)" length="36" />
+        </property>
+    </class>
+</hibernate-mapping>
